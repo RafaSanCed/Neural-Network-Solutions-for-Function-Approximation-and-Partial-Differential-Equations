@@ -3,7 +3,7 @@
 
 <ol>
 
-<li>** Ejercicio 1 ** Creación y entrenamiento de una red neuronal que reproduzca diferentes funciones</li>
-<li>** Ejercicio 2 ** Creación y entrenamiento de redes neuronales que resuelvan ecuaciones diferenciales parciales de primer y segundo orden</li>
+<li><p> <strong>Ejercicio 1: </strong> Creación y entrenamiento de una red neuronal que reproduzca diferentes funciones</p> </li>
+<li><p> <strong>Ejercicio 2: </strong> Creación y entrenamiento de redes neuronales que resuelvan ecuaciones diferenciales parciales de primer y segundo orden</p></li>
 
 </ol>
