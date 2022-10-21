@@ -1,4 +1,4 @@
-# Tarea 3. - Curso Redes Neuronales. 
+# Tarea 3. Curso Redes Neuronales. 
 ## Tabla de contenido
 
 <ol>
